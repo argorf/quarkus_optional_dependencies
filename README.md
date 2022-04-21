@@ -1,0 +1,1 @@
+# quarkus_optional_dependencies
